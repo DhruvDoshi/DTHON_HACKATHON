@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Hackathon](https://img.shields.io/badge/hackathon-HackSummit-orange.svg)](https://www.srmist.edu.in/hack-summit-2019)
+[![Hackathon](https://img.shields.io/badge/hackathon-AUHACK-orange.svg)](https://ahduni.edu.in/academics/schools-centres/school-of-engineering-and-applied-science/news/ingenium-2018-third-annual-technology-festival-of-ahmedabad-university/)
 [![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/DhruvDoshi/DTHON_HACKATHON)
 [![GitHub Issues](https://img.shields.io/github/issues/DhruvDoshi/DTHON)](https://github.com/DhruvDoshi/DTHON_HACKATHON/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
