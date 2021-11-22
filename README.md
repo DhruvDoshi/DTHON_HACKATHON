@@ -2,7 +2,7 @@
   <a href="" rel="noopener">
  <img src="https://i.imgur.com/AZ2iWek.png" alt="Project logo"></a>
 </p>
-<h3 align="center">DTHON</h3>
+<h3 align="center">AUHACK</h3>
 
 <div align="center">
 
